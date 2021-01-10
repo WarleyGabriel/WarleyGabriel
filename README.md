@@ -23,7 +23,7 @@ I am a Software Test Engineer who loves to develop tests in all possible ways.
 <p align="left">
 
   <a target="_blank" href="https://www.linkedin.com/in/warley-gabriel-b5171370/">
-    <img align="left" alt="LinkdeIN" width="30" height="30" src="https://devicon.dev/devicon.git/icons/linkedin/linkedin-original.svg" />
+    <img align="left" alt="LinkdeIN" width="30" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" />
   </a>
 
   <a target="_blank" href="mailto:wgabrieldapaixao@gmail.com">
@@ -40,7 +40,7 @@ I am a Software Test Engineer who loves to develop tests in all possible ways.
 
   <a href="https://nodejs.org" target="_blank">
     <img
-      src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg"
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
       alt="nodejs"
       width="40"
       height="40"
@@ -49,7 +49,7 @@ I am a Software Test Engineer who loves to develop tests in all possible ways.
 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img
-      src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg"
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
       alt="javascript"
       width="40"
       height="40"
@@ -58,7 +58,7 @@ I am a Software Test Engineer who loves to develop tests in all possible ways.
 
   <a href="https://www.typescriptlang.org/" target="_blank">
     <img
-      src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg"
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
       alt="typescript"
       width="40"
       height="40"
@@ -85,7 +85,7 @@ I am a Software Test Engineer who loves to develop tests in all possible ways.
 
   <a href="https://mochajs.org/" target="_blank">
     <img
-      src="https://devicon.dev/devicon.git/icons/mocha/mocha-plain.svg"
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mocha/mocha-plain.svg"
       alt="mocha"
       width="40"
       height="40"
@@ -94,7 +94,7 @@ I am a Software Test Engineer who loves to develop tests in all possible ways.
 
   <a href="https://cucumber.io/" target="_blank">
     <img
-      src="https://devicon.dev/devicon.git/icons/cucumber/cucumber-plain-wordmark.svg"
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cucumber/cucumber-plain-wordmark.svg"
       alt="cucumber"
       width="40"
       height="40"
@@ -103,7 +103,7 @@ I am a Software Test Engineer who loves to develop tests in all possible ways.
 
   <a href="https://www.docker.com/" target="_blank">
     <img
-      src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg"
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
       alt="docker"
       width="40"
       height="40"
@@ -112,7 +112,7 @@ I am a Software Test Engineer who loves to develop tests in all possible ways.
   
   <a href="https://about.gitlab.com/" target="_blank">
     <img
-      src="https://devicon.dev/devicon.git/icons/gitlab/gitlab-original-wordmark.svg"
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original-wordmark.svg"
       alt="gitlab"
       width="40"
       height="40"
@@ -139,7 +139,7 @@ I am a Software Test Engineer who loves to develop tests in all possible ways.
 
   <a href="https://www.postgresql.org" target="_blank">
     <img
-      src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg"
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
       alt="postgresql"
       width="40"
       height="40"
