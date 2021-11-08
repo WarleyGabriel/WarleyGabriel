@@ -16,7 +16,7 @@
 
 ## Hi there! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> </h2>
 
-I am a Software Test Engineer who loves to develop tests in all possible ways.
+Experienced Software Test Engineer recently moved to a Software Engineer (mainly backend) position.
 
 ### Find me around the web 🌎
 
@@ -64,16 +64,7 @@ I am a Software Test Engineer who loves to develop tests in all possible ways.
       height="40"
     />
   </a>
-
-  <a href="https://webdriver.io/" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/webdriverio/webdriverio/master/website/static/img/webdriverio.png"
-      alt="webdriverio"
-      width="40"
-      height="40"
-    />
-  </a>
-
+  
   <a href="https://jestjs.io" target="_blank">
     <img
       src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg"
@@ -82,25 +73,25 @@ I am a Software Test Engineer who loves to develop tests in all possible ways.
       height="40"
     />
   </a>
-
-  <a href="https://mochajs.org/" target="_blank">
+  
+  <a href="https://aws.amazon.com/pt/">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mocha/mocha-plain.svg"
-      alt="mocha"
-      width="40"
+      src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"
+      alt="AWS"
+      width="80"
       height="40"
     />
   </a>
-
-  <a href="https://cucumber.io/" target="_blank">
+  
+  <a href="https://aws.amazon.com/pt/">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cucumber/cucumber-plain-wordmark.svg"
-      alt="cucumber"
-      width="40"
+      src="https://www.vectorlogo.zone/logos/amazon_awslambda/amazon_awslambda-ar21.svg"
+      alt="AWS Lambda"
+      width="60"
       height="40"
     />
   </a>
-
+  
   <a href="https://www.docker.com/" target="_blank">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
@@ -109,34 +100,25 @@ I am a Software Test Engineer who loves to develop tests in all possible ways.
       height="40"
     />
   </a>
+
+  <a href="https://git-scm.com" target="_blank">
+    <img
+      src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"
+      alt="git"
+      width="65"
+      height="40"
+    />
+  </a>
+
+  <a href="https://www.mongodb.com" target="_blank">
+    <img
+      src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"
+      alt="mongo db"
+      width="60"
+      height="40"
+    />
+  </a>
   
-  <a href="https://about.gitlab.com/" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original-wordmark.svg"
-      alt="gitlab"
-      width="40"
-      height="40"
-    />
-  </a>
-
-  <a href="https://www.jenkins.io" target="_blank">
-    <img
-      src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg"
-      alt="jenkins"
-      width="40"
-      height="40"
-    />
-  </a>
-
-  <a href="https://kubernetes.io" target="_blank">
-    <img
-      src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg"
-      alt="kubernetes"
-      width="40"
-      height="40"
-    />
-  </a>
-
   <a href="https://www.postgresql.org" target="_blank">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
@@ -145,5 +127,5 @@ I am a Software Test Engineer who loves to develop tests in all possible ways.
       height="40"
     />
   </a>
-
+  
 </p>
