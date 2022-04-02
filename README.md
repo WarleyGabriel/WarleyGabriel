@@ -65,6 +65,15 @@ Experienced Software Test Engineer recently moved to a Software Engineer (mainly
     />
   </a>
   
+  <a href="https://go.dev/" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg"
+      alt="Golang"
+      width="40"
+      height="40"
+    />
+  </a>
+  
   <a href="https://jestjs.io" target="_blank">
     <img
       src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg"
@@ -115,15 +124,6 @@ Experienced Software Test Engineer recently moved to a Software Engineer (mainly
       src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"
       alt="mongo db"
       width="60"
-      height="40"
-    />
-  </a>
-  
-  <a href="https://www.postgresql.org" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
-      alt="postgresql"
-      width="40"
       height="40"
     />
   </a>
