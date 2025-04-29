@@ -58,7 +58,7 @@
 
   <a href="https://www.typescriptlang.org/" target="_blank">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
+      src="https://icons.veryicon.com/png/o/business/vscode-program-item-icon/typescript-def.png"
       alt="typescript"
       width="40"
       height="40"
