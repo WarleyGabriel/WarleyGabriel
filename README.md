@@ -74,10 +74,10 @@
     />
   </a>
   
-  <a href="https://jestjs.io" target="_blank">
+  <a href="https://cloud.google.com/" target="_blank">
     <img
-      src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg"
-      alt="jest"
+      src="https://www.pinpng.com/pngs/m/61-610992_gcp-logo-cloud-google-cloud-logo-svg-hd.png"
+      alt="GCP"
       width="40"
       height="40"
     />
