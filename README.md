@@ -16,7 +16,7 @@
 
 ## Hi there! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> </h2>
 
-Experienced Software Test Engineer recently moved to a Software Engineer (mainly backend) position.
+💻 Backend Engineer | Go & Node.js | API Design & System Architecture
 
 ### Find me around the web 🌎
 
